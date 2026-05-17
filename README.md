@@ -5,14 +5,12 @@ Associate IT Engineering Student | Open Source Enthusiast | Tech Leader & Creato
 I am a passionate Information Technology student driven by building impactful software, optimizing workflows, and fostering thriving tech communities. Beyond code, I bridge tech and creativity through video editing and digital content creation.
 
 ---
-
 ## 🚀 Leadership & Initiatives
 
-*   **Co-Founder @ Electroverse Club (SSEC) (electroverse.padhakuportal.in)**  
-    Leading a vibrant student community focused on tech innovation, organizing technical bootcamps, safety seminars, and hands-on workshops to bridge the gap between academia and industry.
+*   **Co-Founder @ [Electroverse Club](https://electroverse.padhakuportal.in)**  
+    Leading a vibrant student community at SSEC focused on tech innovation. Building a centralized digital hub for club announcements, bootcamps, and technical resources.
 *   **Co-Founder @ [padhakuportal.in](https://padhakuportal.in)**  
     Building and scaling a digital ecosystem designed to streamline and democratize educational resources for students.
-
 ---
 
 ## 🎬 Creative Pursuits
