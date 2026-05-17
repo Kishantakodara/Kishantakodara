@@ -8,7 +8,7 @@ I am a passionate Information Technology student driven by building impactful so
 
 ## 🚀 Leadership & Initiatives
 
-*   **Co-Founder @ Electroverse Club (SSEC)**  
+*   **Co-Founder @ Electroverse Club (SSEC) (electroverse.padhakuportal.in)**  
     Leading a vibrant student community focused on tech innovation, organizing technical bootcamps, safety seminars, and hands-on workshops to bridge the gap between academia and industry.
 *   **Co-Founder @ [padhakuportal.in](https://padhakuportal.in)**  
     Building and scaling a digital ecosystem designed to streamline and democratize educational resources for students.
